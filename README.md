@@ -42,7 +42,7 @@ __6. 根据垃圾类型开关不同类型垃圾桶 -- 线程调度__
 以上子功能，我们均通过线程调度，具体可参看  [项目博客]( https://blog.csdn.net/mx_jun/article/details/138231385) 这篇文章文章中的 程序流程框图  
 更多细节我们可以参看 [智能垃圾桶项目专栏]"http://t.csdnimg.cn/HZ2OI" 
 
-![程序流程图](图解.png)
+![程序流程图](https://github.com/mx3147215731/Smart-trash-can-projec.git/图解.png)
 
 
 
